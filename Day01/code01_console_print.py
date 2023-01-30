@@ -1,2 +1,4 @@
-# 콘솔출력 / 여기는 주석입니다!
+# date : 2023-01-30
+# author : sso-o22
+# desc : 콘솔출력
 print('Hello, Python!!')
