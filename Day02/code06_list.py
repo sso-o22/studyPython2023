@@ -18,7 +18,7 @@ print(a1, a2, a3, a4, a5, a6, a7, a8, a9, a10)
 # 리스트 == 배열
 arr = [1,2,3,4,5,6,7,8,9,10]
 print(arr)
-sum = 0;
+sum = 0
 for i in arr:
     sum += i
 
