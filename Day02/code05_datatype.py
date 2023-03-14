@@ -62,11 +62,3 @@ print(거짓 is False)  # True
 print(bool(1))  # 1 == True
 print(bool(0))  # 0 == False
 print(bool(3))  # 1이외 값은 True라고 하지마세요.
-
-
-
-
-
-
-
-

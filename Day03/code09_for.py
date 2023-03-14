@@ -6,7 +6,6 @@ for item in arr:  # i = item
     print(item)
     sum += item  # sum = sum + item
     
-
 print('합계는 ', sum)
 
 # 리스트를 편하게 만드는 방법
